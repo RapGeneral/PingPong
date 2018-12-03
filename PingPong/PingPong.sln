@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingPong.CLI", "PingPong.CLI\PingPong.CLI.csproj", "{06A5BD73-CAB9-4F22-9638-17FF6413C6D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingPong.Core", "PingPong.Core\PingPong.Core.csproj", "{76EC4CF4-E7E5-4884-8361-369637680D91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingPong.Board", "PingPong.Board\PingPong.Board.csproj", "{29077539-04DF-4691-B799-3FEAF5B84369}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingPong.Game", "PingPong.Game\PingPong.Game.csproj", "{41CB147E-0A0C-43B6-91ED-5136DAF6B45B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingPong.Providers", "PingPong.Providers\PingPong.Providers.csproj", "{61F12E2A-B310-4BC0-B1A6-B33AB25D45D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.Tests", "PingPong.Tests\PingPong.Tests.csproj", "{2CB23520-8700-4C5B-9504-47E05F4C0CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A5BD73-CAB9-4F22-9638-17FF6413C6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A5BD73-CAB9-4F22-9638-17FF6413C6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A5BD73-CAB9-4F22-9638-17FF6413C6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A5BD73-CAB9-4F22-9638-17FF6413C6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76EC4CF4-E7E5-4884-8361-369637680D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EC4CF4-E7E5-4884-8361-369637680D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EC4CF4-E7E5-4884-8361-369637680D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EC4CF4-E7E5-4884-8361-369637680D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29077539-04DF-4691-B799-3FEAF5B84369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29077539-04DF-4691-B799-3FEAF5B84369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29077539-04DF-4691-B799-3FEAF5B84369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29077539-04DF-4691-B799-3FEAF5B84369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CB147E-0A0C-43B6-91ED-5136DAF6B45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CB147E-0A0C-43B6-91ED-5136DAF6B45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CB147E-0A0C-43B6-91ED-5136DAF6B45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CB147E-0A0C-43B6-91ED-5136DAF6B45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F12E2A-B310-4BC0-B1A6-B33AB25D45D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F12E2A-B310-4BC0-B1A6-B33AB25D45D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F12E2A-B310-4BC0-B1A6-B33AB25D45D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F12E2A-B310-4BC0-B1A6-B33AB25D45D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB23520-8700-4C5B-9504-47E05F4C0CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB23520-8700-4C5B-9504-47E05F4C0CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB23520-8700-4C5B-9504-47E05F4C0CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB23520-8700-4C5B-9504-47E05F4C0CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBB5D488-D75B-4A5F-A2D9-B5F3D87EA364}
+	EndGlobalSection
+EndGlobal

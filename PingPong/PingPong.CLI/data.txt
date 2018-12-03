@@ -1,0 +1,15 @@
+coins 800
+DarkBlue LineColors
+DarkCyan BallColors
+Yellow LineColors
+Magenta LineColors
+Magenta BallColors
+DarkGreen BallColors
+Red LineColors
+DarkBlue BallColors
+Black LineColors
+Green BallColors
+DarkRed BallColors
+DarkMagenta BallColors
+Cyan BallColors
+Cyan LineColors
